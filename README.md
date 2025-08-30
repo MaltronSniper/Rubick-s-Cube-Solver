@@ -1,4 +1,4 @@
-# _Rubick's Cube Solver_
+# _Rubick's Cube Solver (CUBEISTEIN)_
 
 The Cube Solver is constructed to Refine and Create a Hybrid of Beginner and CFOP Method of Solving a Rubick's Cubs.
 
